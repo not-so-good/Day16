@@ -11,4 +11,4 @@ class Person {
   }
 }
 
-exports.Person = Person;
+module.exports = Person;
