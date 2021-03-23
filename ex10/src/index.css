@@ -55,8 +55,8 @@ header {
 }
 
 #header-img {
-    left: -50px;
-    width: 80%;
+    left: 40px;
+    width: 50%;
     position: sticky;
     border-bottom-width: 10px;
     border-right-width: 10px;
